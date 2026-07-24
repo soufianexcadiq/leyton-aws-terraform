@@ -1,0 +1,2 @@
+# Encrypted EFS filesystem.
+
