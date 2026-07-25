@@ -2,13 +2,13 @@
 variable "region" {
   description = "AWS region to deploy resources"
   type        = string
-  default     = "us-east-1"
+  default     = "eu-west-3"
 }
 
 variable "environment" {
   description = "Environment name for resource naming and tagging"
   type        = string
-  default     = "production"
+  default     = "staging"
 }
 
 variable "vpc_cidr" {
