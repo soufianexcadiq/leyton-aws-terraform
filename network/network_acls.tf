@@ -1,2 +1,0 @@
-# Network ACL definitions.
-
